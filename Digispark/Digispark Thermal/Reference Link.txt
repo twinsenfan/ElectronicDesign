@@ -1,0 +1,4 @@
+https://github.com/RobTillaart/Arduino/tree/master/libraries/DHTstable
+
+
+https://digistump.com/wiki/digispark/tutorials/basics
